@@ -1,7 +1,6 @@
 <h3> :man: &nbsp;About Me </h3>
 
 - 🧑 &nbsp; I'm **23 years old**;
-- 💼 &nbsp; I'm currently **laminator** at <a href="https://www.brunswick.com/">BRUNSWICK MARINE</a>; 
 - 📚 &nbsp; I'm currently study **web development** and **English**;
 
 <h3> :rocket: &nbsp;My Skills </h3>
